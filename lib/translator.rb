@@ -1,7 +1,7 @@
 require "yaml"
 require "pry"
 
-# require modules here
+require modules here
 
 def load_library(path)
  final_hash = {}
